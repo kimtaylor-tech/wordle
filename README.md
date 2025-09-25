@@ -10,10 +10,10 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **User has 3 chances to guess a random 4 letter word**
-- [ ] **After 3 guesses, user should no longer be able to submit another guess**
-- [ ] **After each guess, user sees the "correctness" of the guess**
-- [ ] **After all guesses are taken, user can see the target word displayed**
+- [*] **User has 3 chances to guess a random 4 letter word**
+- [*] **After 3 guesses, user should no longer be able to submit another guess**
+- [*] **After each guess, user sees the "correctness" of the guess**
+- [*] **After all guesses are taken, user can see the target word displayed**
 
 The following **optional** features are implemented:
 
@@ -24,9 +24,6 @@ The following **optional** features are implemented:
 - [ ] User will get an error message if they input an invalid guess
 - [ ] User can see a 'streak' record of how many words they've guessed correctly.
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -47,7 +44,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Kimora Taylor]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
