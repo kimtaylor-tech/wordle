@@ -29,10 +29,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+< https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5lZWE3eGlieXJzeDEydWhudXIxY3Z2M2llYnZzbmliaHV3bG00YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dlEF72k3UORocSvj05/giphy.gif >
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Kap
+GIF created with Gif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
