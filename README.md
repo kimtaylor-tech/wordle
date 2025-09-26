@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-< https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5lZWE3eGlieXJzeDEydWhudXIxY3Z2M2llYnZzbmliaHV3bG00YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dlEF72k3UORocSvj05/giphy.gif >
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5lZWE3eGlieXJzeDEydWhudXIxY3Z2M2llYnZzbmliaHV3bG00YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dlEF72k3UORocSvj05/giphy.gif" >
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Gif
